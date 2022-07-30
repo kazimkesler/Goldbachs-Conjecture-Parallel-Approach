@@ -1,2 +1,2 @@
 # Goldbachs-Conjecture-Parallel-Approach
-This program tests all odd numbers according to Goldbach Conjecture using parallel programming approach.
+This program tests all even numbers according to Goldbach Conjecture using parallel programming approach.
