@@ -46,7 +46,7 @@ namespace Goldbach1
                                     total = Primes.ElementAt(j) + Primes.ElementAt(k);
                                     break;
                                 }
-                                Console.WriteLine("yeni asal sayi bekleniyor");
+                                Console.WriteLine("New prime numbers are waiting to be discovered");
                             }
 
                         if (total > i)
